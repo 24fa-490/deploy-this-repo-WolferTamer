@@ -27,5 +27,3 @@
 # Where am I deployed?
 
 https://deploy-this-repo-wolfer-tamer.vercel.app/
-
-Uses Vercel
